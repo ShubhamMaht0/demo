@@ -1,4 +1,4 @@
 # demo
-MY git repository
+MY git repository.
 <br>
 Aurthor - Shubham Mahto
